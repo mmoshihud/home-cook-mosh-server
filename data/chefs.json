@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Alice Smith",
+    "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "experience_years": 8,
+    "num_recipes": 60,
+    "likes": 900
+  },
+  {
+    "id": "2",
+    "name": "Isabella Gomez",
+    "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "experience_years": 12,
+    "num_recipes": 80,
+    "likes": 1100
+  },
+  {
+    "id": "3",
+    "name": "Carol Chen",
+    "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "experience_years": 5,
+    "num_recipes": 40,
+    "likes": 500
+  },
+  {
+    "id": "4",
+    "name": "David Kim",
+    "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "experience_years": 10,
+    "num_recipes": 70,
+    "likes": 800
+  },
+  {
+    "id": "5",
+    "name": "Eva Hernandez",
+    "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "experience_years": 3,
+    "num_recipes": 20,
+    "likes": 100
+  },
+  {
+    "id": "6",
+    "name": "Frank Martin",
+    "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "experience_years": 15,
+    "num_recipes": 100,
+    "likes": 1500
+  }
+]

@@ -4,11 +4,11 @@
   "description": "A cook website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git init"
+    "url": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-mmoshihud.git"
   },
   "author": "Munshi Moshihud Hossain",
   "license": "ISC",
