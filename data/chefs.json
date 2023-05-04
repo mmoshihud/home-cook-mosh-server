@@ -3,22 +3,25 @@
     "id": "1",
     "name": "Alice Smith",
     "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "bio": "Chef Alice Smith is a classically trained French chef who has spent years honing her craft in some of the most prestigious kitchens around the world. Her dishes are known for their elegance and simplicity, showcasing the freshest ingredients and the most delicate flavors.",
     "experience_years": 8,
     "num_recipes": 60,
     "likes": 900
   },
   {
     "id": "2",
-    "name": "Isabella Gomez",
+    "name": "Carol Chen",
     "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "bio": "Chef Carol Chen is a Korean-American chef who has made a name for himself by fusing traditional Korean flavors with modern culinary techniques. His dishes are bold, flavorful, and always inventive, blending classic Korean dishes with unexpected twists and surprises.",
     "experience_years": 12,
     "num_recipes": 80,
     "likes": 1100
   },
   {
     "id": "3",
-    "name": "Carol Chen",
+    "name": "Isabella Gomez",
     "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "bio": "Chef Isabella Gomez is a self-taught chef who draws inspiration from her Pakistani heritage and her travels around the world. Her dishes are a fusion of flavors and cultures, combining traditional Pakistani spices with unexpected ingredients and techniques from other cuisines.",
     "experience_years": 5,
     "num_recipes": 40,
     "likes": 500
@@ -27,6 +30,7 @@
     "id": "4",
     "name": "David Kim",
     "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "bio": "Chef David Kim is a fourth-generation Italian chef who learned to cook in his family's restaurant in Naples. His dishes are classic Italian fare at its best, with handmade pastas, perfectly cooked risottos, and rich, flavorful sauces that transport you to the heart of Italy.",
     "experience_years": 10,
     "num_recipes": 70,
     "likes": 800
@@ -35,6 +39,7 @@
     "id": "5",
     "name": "Eva Hernandez",
     "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "bio": "Chef Eva Hernandez is a Mexican-American chef who has dedicated her career to elevating traditional Mexican cuisine to new heights. Her dishes are a celebration of the vibrant colors and bold flavors of Mexico, with fresh ingredients, complex spices, and unexpected flavor combinations.",
     "experience_years": 3,
     "num_recipes": 20,
     "likes": 100
@@ -43,6 +48,7 @@
     "id": "6",
     "name": "Frank Martin",
     "imageURL": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+    "bio": "Chef David Chen is a Chinese-American chef who has made a name for himself by reimagining traditional Chinese dishes with modern techniques and ingredients. His dishes are a fusion of Chinese flavors and techniques with unexpected twists and turns, showcasing the best of both worlds.",
     "experience_years": 15,
     "num_recipes": 100,
     "likes": 1500

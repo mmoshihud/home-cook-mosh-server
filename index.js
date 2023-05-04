@@ -1,11 +1,16 @@
 const express = require("express");
 const app = express();
 const port = 5000;
-
+const cors = require("cors");
 const chefs = require("./data/chefs.json");
+const recipe = require("./data/recipe.json");
+
+app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send(
+    "Welcome to Home Cook Backend. go to /chef and /recipe to see api data"
+  );
 });
 
 app.get("/chef", (req, res) => {
@@ -18,6 +23,10 @@ app.get("/chef/:id", (req, res) => {
   res.send(selectedChef);
 });
 
-app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+app.get("/recipe/:chef_id", (req, res) => {
+  const id = req.params.chef_id;
+  const recipeByChef = recipe.filter((x) => x.chef_id === id);
+  res.send(recipeByChef);
 });
+
+app.listen(port);
